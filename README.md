@@ -1,5 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=OnlyTask&color=yellow)
 
-# Only-Tasks
+# Only-Tasks 📋
 
-### Proyecto realizado en base a un tutorial de "Code&Coding", cuya finalidad es practicar React y Bootstrap
+Plataforma que te facilita realizar una lista de tareas; donde podrás agregar, editar, eliminar y tachar 'Tasks'.
+
+Proyecto realizado con el fin de practicar nociones de React js y Bootstrap. 
+
+
