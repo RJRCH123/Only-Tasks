@@ -9,7 +9,7 @@ Proyecto realizado en base a un tutorial de "Code&Coding", cuya finalidad es pra
 *** 
 
 <div align="center">
-  <img src="./src/assets/VideoDemostracion.gif" alt="Doing Tasks" width="800">
+  <img src="./src/assets/VideoDemostracion.gif" alt="Doing Tasks" width="600">
 </div>
 
  ***
